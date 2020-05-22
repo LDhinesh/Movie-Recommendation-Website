@@ -3,6 +3,7 @@ Movie Recommendation Website made using Django and TheMovieDB API
 It has 3 main components/pages:
 
 1.Catalogue-Shows 10 most popular movies on the page according to TheMovieDB API
+
 2.Chatbot-It answers the users query according to the keywords listed in the query. tell,cast,popularity,kids,genre,review,popular are the keywords used. Some examples of valid queries are-
   i.<i>Tell</i> me about the <i>movie</i> extraction
   ii.What is the <i>cast</i> of <i>movie</i> extraction
