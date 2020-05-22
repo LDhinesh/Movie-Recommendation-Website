@@ -12,7 +12,7 @@ It has 3 main components/pages:
   vi.Give me a <i>Review</i> of the <i>movie</i> extraction
   vii.What are some <i>popular</i> movies right now
   
-  <b>Note:<b> 1. Italicized words are neccessary keywords for valid queries
+  <b>Note:</b> 1. Italicized words are neccessary keywords for valid queries
               2.You cannot mix 2 keywords in one query. For example: Tell me about a movie with genre Action. This is not valid as it uses                 both tell and genre keywords
   
  3.Personalised recommendation-This is a feature for only registered and logged in users. Users can input 5 movies of their preference and similiar 5 movies will be suggested to the user
